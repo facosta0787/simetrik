@@ -2,17 +2,21 @@
 
 Searcher that allows to search through the various objects, no matters what is the shape of the objects, it searches on every key of each object.
 
-This exercise was made using React, bootstraped with Create React APP
+This exercise was made using React, bootstraped with Create React APP.
+
+[simetrik.felipeacosta.dev](https://simetrik.felipeacosta.dev)
+![demo](demo.gif)
+
 
 ## Installing Dependencies
 
-```bash
+```shell
 npm install or yarn install
 ```
 
 ## Running
 
-```bash
+```shell
 npm start or yarn start
 ```
 
