@@ -52,12 +52,18 @@ function App() {
 
   console.log(results);
   return (
-    <main className={cs('app-container',
-      {'app-container-results': Object.keys(results).length}
-    )}>
+    <main
+      className={cs("app-container", {
+        "app-container-results": Object.keys(results).length,
+      })}
+    >
       <div className="hero">
         <img className="logo" src={simetrikLogo} alt="simetric logo" />
-        <Searcher onSubmit={handleSearch} results={Object.keys(results).length} {...bind} />
+        <Searcher
+          onSubmit={handleSearch}
+          results={Object.keys(results).length}
+          {...bind}
+        />
       </div>
 
       {Object.keys(results).length > 0 && (
