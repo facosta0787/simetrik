@@ -19,11 +19,11 @@ jobs:
       - name: Installing packages and runing tests
         run: yarn && yarn test
       - name: Deploy to Vercel
-        uses: amondnet/now-deployment@v2
+        uses: amondnet/vercel-action@v19
         with:
-          zeit-token: ${{ secrets.VERCEL_TOKEN_ID }} # Required
+          vercel-token: ${{ secrets.VERCEL_TOKEN_ID }} # Required
           github-token: ${{ secrets.GH_TOKEN }} #Optional
-          now-args: '--prod' #Optional
-          now-org-id: ${{ secrets.VERCEL_ORG_ID}}  #Required
-          now-project-id: ${{ secrets.VERCEL_PROJECT_ID}} #Required
+          vercel-args: '--prod' #Optional
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID}}  #Required
+          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID}} #Required
           working-directory: ./
