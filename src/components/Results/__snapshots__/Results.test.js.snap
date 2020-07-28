@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Restuls Component Should match to snapshot 1`] = `
+<div>
+  <article
+    class="results"
+    data-testid="resutls-article"
+  >
+    <h3
+      class="results-title"
+    >
+      this is a title
+    </h3>
+    <table
+      class="results-table"
+    >
+      <thead
+        class="table-head"
+      >
+        <tr
+          class="table-row"
+        >
+          <th
+            class="table-header"
+          >
+            id
+          </th>
+          <th
+            class="table-header"
+          >
+            name
+          </th>
+          <th
+            class="table-header"
+          >
+            address
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        class="table-body"
+      >
+        <tr
+          class="table-row"
+        >
+          <td
+            class="table-cell"
+            data-label="id"
+          >
+            1
+          </td>
+          <td
+            class="table-cell"
+            data-label="name"
+          >
+            Tony Stark
+          </td>
+          <td
+            class="table-cell"
+            data-label="address"
+          >
+            Stark Tower
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </article>
+</div>
+`;

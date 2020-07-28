@@ -50,15 +50,15 @@ function App() {
     fields: ["company", "email", "phone", "address", "tags"],
   };
 
-  console.log(results);
   return (
     <main
       className={cs("app-container", {
         "app-container-results": Object.keys(results).length,
       })}
+      data-testid="app"
     >
-      <div className="hero">
-        <img className="logo" src={simetrikLogo} alt="simetric logo" />
+      <div data-testid="hero-banner" className="hero">
+        <img className="logo" src={simetrikLogo} alt="simetrik logo" />
         <Searcher
           onSubmit={handleSearch}
           results={Object.keys(results).length}
@@ -67,7 +67,7 @@ function App() {
       </div>
 
       {Object.keys(results).length > 0 && (
-        <section className="results-wrapper">
+        <section data-testid="results-section" className="results-wrapper">
           <Results
             data={mapDataToRender(
               results.conciliaciones,
@@ -93,9 +93,9 @@ function App() {
   );
 }
 
-function mapDataToRender(data, fields) {
+export function mapDataToRender(data, fields) {
   return data.map((item) => {
-    const newItem = {};
+    const newItem = { id: item._id };
     fields.forEach((field) => {
       newItem[field] = field === "tags" ? item[field].join(", ") : item[field];
     });

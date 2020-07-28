@@ -1,0 +1,648 @@
+{
+  "conciliaciones": [
+    {
+      "_id": "5f0bac253c7a916bf2afb425",
+      "index": 41,
+      "isActive": true,
+      "conciliationName": "ad",
+      "sourceA": "adipisicing",
+      "sourceB": "voluptate",
+      "balance": "$2,762.87",
+      "timestamp": {
+        "createdAt": "2018-02-05",
+        "updateAt": "2020-01-28"
+      },
+      "description": "Consectetur laboris consequat Lorem dolore officia",
+      "tags": [
+        "ipsum",
+        "pariatur",
+        "velit",
+        "laborum",
+        "in",
+        "esse",
+        "eiusmod"
+      ]
+    }
+  ],
+  "fuentes": [
+    {
+      "_id": "5f0baba1c3bf00a39b82eb47",
+      "index": 10,
+      "isActive": true,
+      "name": "pariatur",
+      "company": "FUELTON",
+      "timestamp": {
+        "createdAt": "2017-02-23",
+        "updateAt": "2020-01-14"
+      },
+      "description": "In elit irure aute proident ullamco tempor laboris nisi pariatur. Nostrud voluptate amet ullamco sunt laboris ad. Reprehenderit occaecat veniam eiusmod non nostrud consectetur nulla laboris aliqua nisi duis pariatur. Nisi ex cillum Lorem dolore. Tempor sunt consequat id nisi adipisicing.\r\n",
+      "tags": [
+        "velit",
+        "irure",
+        "ea",
+        "laboris",
+        "excepteur",
+        "incididunt",
+        "nulla"
+      ]
+    },
+    {
+      "_id": "5f0baba106ccedf8b98f1156",
+      "index": 73,
+      "isActive": true,
+      "name": "id",
+      "company": "ORBAXTER",
+      "timestamp": {
+        "createdAt": "2017-04-06",
+        "updateAt": "2020-01-11"
+      },
+      "description": "Est ad consectetur dolore consequat ex. Reprehenderit deserunt nulla voluptate est commodo ea duis esse consectetur veniam nisi adipisicing. Et mollit sint nisi irure eiusmod consectetur consectetur tempor officia sint aliquip. Nisi laborum ullamco elit aliqua.\r\n",
+      "tags": [
+        "sint",
+        "commodo",
+        "dolore",
+        "proident",
+        "culpa",
+        "minim",
+        "eu"
+      ]
+    },
+    {
+      "_id": "5f0baba17287bbd2d994fea9",
+      "index": 122,
+      "isActive": false,
+      "name": "duis",
+      "company": "OVERPLEX",
+      "timestamp": {
+        "createdAt": "2014-04-23",
+        "updateAt": "2020-01-21"
+      },
+      "description": "Qui cillum et in ut esse aliquip deserunt esse deserunt tempor amet est adipisicing amet. Veniam nostrud ea veniam commodo culpa esse consectetur consequat in. Adipisicing eu ea commodo esse enim velit duis fugiat mollit fugiat. Sit elit ut amet id fugiat amet quis Lorem elit ut adipisicing id.\r\n",
+      "tags": [
+        "in",
+        "nisi",
+        "consectetur",
+        "non",
+        "reprehenderit",
+        "nostrud",
+        "id"
+      ]
+    },
+    {
+      "_id": "5f0baba147e366690628ff60",
+      "index": 155,
+      "isActive": true,
+      "name": "adipisicing",
+      "company": "HIVEDOM",
+      "timestamp": {
+        "createdAt": "2020-01-17",
+        "updateAt": "2018-06-11"
+      },
+      "description": "Laborum exercitation tempor amet consequat. Aliquip ea labore aliqua irure incididunt exercitation eiusmod sunt nulla magna nulla. Deserunt culpa aute mollit nostrud et minim pariatur enim minim adipisicing et. Aute est tempor esse minim velit non incididunt nisi enim. Irure elit pariatur voluptate mollit non aute.\r\n",
+      "tags": [
+        "mollit",
+        "nisi",
+        "aliqua",
+        "nostrud",
+        "velit",
+        "nostrud",
+        "elit"
+      ]
+    },
+    {
+      "_id": "5f0baba197ef67cc98029358",
+      "index": 160,
+      "isActive": true,
+      "name": "occaecat",
+      "company": "REPETWIRE",
+      "timestamp": {
+        "createdAt": "2015-02-10",
+        "updateAt": "2020-01-22"
+      },
+      "description": "Aute aliquip occaecat magna quis do sunt do sint culpa cillum deserunt nisi adipisicing. Nostrud ut irure enim nisi ad aliquip proident do eu cillum mollit quis dolore aliquip. Pariatur qui ad veniam velit mollit aliqua labore laborum. Enim consequat reprehenderit non esse voluptate nisi irure eiusmod. Occaecat nulla consequat laboris labore est in dolor anim. Veniam cillum cupidatat ut magna ut non voluptate exercitation consectetur laborum laborum velit non. Non qui ullamco esse et commodo quis.\r\n",
+      "tags": [
+        "deserunt",
+        "magna",
+        "voluptate",
+        "non",
+        "non",
+        "mollit",
+        "aute"
+      ]
+    },
+    {
+      "_id": "5f0baba1673c7211f7fd3b39",
+      "index": 188,
+      "isActive": true,
+      "name": "ullamco",
+      "company": "TETAK",
+      "timestamp": {
+        "createdAt": "2017-03-07",
+        "updateAt": "2020-01-08"
+      },
+      "description": "Aliqua pariatur sint incididunt deserunt consequat aliqua ipsum. Minim nulla aliquip adipisicing aliquip duis deserunt laborum est elit exercitation ea tempor cillum. Mollit occaecat velit commodo elit qui nostrud in laboris reprehenderit proident laborum tempor cillum nisi. Labore laborum esse enim aliqua. Veniam incididunt eu occaecat exercitation minim voluptate eiusmod qui minim esse laborum incididunt duis cillum. Amet qui minim voluptate laboris mollit amet non.\r\n",
+      "tags": [
+        "velit",
+        "consequat",
+        "commodo",
+        "minim",
+        "pariatur",
+        "tempor",
+        "exercitation"
+      ]
+    },
+    {
+      "_id": "5f0baba1f29a958923955977",
+      "index": 253,
+      "isActive": false,
+      "name": "Lorem",
+      "company": "PAPRICUT",
+      "timestamp": {
+        "createdAt": "2018-09-03",
+        "updateAt": "2020-01-31"
+      },
+      "description": "Adipisicing excepteur reprehenderit id quis est duis nulla magna do velit officia exercitation amet aliquip. Laborum ut consectetur dolor laboris incididunt cupidatat ullamco mollit nisi ut culpa. Qui non esse quis minim.\r\n",
+      "tags": [
+        "ut",
+        "commodo",
+        "duis",
+        "ipsum",
+        "cillum",
+        "duis",
+        "commodo"
+      ]
+    },
+    {
+      "_id": "5f0baba1347862060fb29455",
+      "index": 292,
+      "isActive": true,
+      "name": "et",
+      "company": "ZILLADYNE",
+      "timestamp": {
+        "createdAt": "2020-01-14",
+        "updateAt": "2019-12-12"
+      },
+      "description": "Cupidatat est eu sunt aute excepteur non velit aliqua pariatur. Occaecat nulla Lorem sit ullamco veniam excepteur dolore irure mollit veniam deserunt ex cillum. Quis occaecat magna ea nostrud quis exercitation in adipisicing irure dolor excepteur.\r\n",
+      "tags": [
+        "non",
+        "Lorem",
+        "esse",
+        "laborum",
+        "qui",
+        "commodo",
+        "esse"
+      ]
+    }
+  ],
+  "tableros": [
+    {
+      "_id": "5f0badf1a22b8bbc00b6168a",
+      "index": 46,
+      "isActive": false,
+      "dashboardName": "incididunt",
+      "visualType": [
+        {
+          "name": "ut"
+        },
+        {
+          "name": "elit"
+        },
+        {
+          "name": "consequat"
+        },
+        {
+          "name": "labore"
+        }
+      ],
+      "visuals": [
+        {
+          "name": "mollit",
+          "type": "pariatur"
+        },
+        {
+          "name": "non",
+          "type": "incididunt"
+        },
+        {
+          "name": "dolore",
+          "type": "adipisicing"
+        }
+      ],
+      "timestamp": {
+        "createdAt": "2016-08-14",
+        "updateAt": "2020-01-11"
+      },
+      "description": "Ullamco reprehenderit irure adipisicing veniam incididunt velit commodo elit ea ullamco nostrud magna occaecat. Exercitation eiusmod exercitation ipsum excepteur tempor. Eiusmod enim do nostrud irure nisi culpa mollit id qui. Qui ut dolore do cillum culpa excepteur et commodo. In proident voluptate est nostrud officia proident exercitation duis reprehenderit eu ea non.\r\n",
+      "tags": [
+        "incididunt",
+        "nostrud",
+        "ea",
+        "consequat",
+        "sint",
+        "proident",
+        "incididunt"
+      ]
+    },
+    {
+      "_id": "5f0badf199e922db5e7448c7",
+      "index": 50,
+      "isActive": true,
+      "dashboardName": "nulla",
+      "visualType": [
+        {
+          "name": "exercitation"
+        },
+        {
+          "name": "fugiat"
+        },
+        {
+          "name": "officia"
+        },
+        {
+          "name": "adipisicing"
+        }
+      ],
+      "visuals": [
+        {
+          "name": "exercitation",
+          "type": "officia"
+        },
+        {
+          "name": "cillum",
+          "type": "esse"
+        },
+        {
+          "name": "non",
+          "type": "pariatur"
+        },
+        {
+          "name": "dolor",
+          "type": "nisi"
+        },
+        {
+          "name": "ex",
+          "type": "qui"
+        }
+      ],
+      "timestamp": {
+        "createdAt": "2014-12-31",
+        "updateAt": "2020-01-26"
+      },
+      "description": "Eu deserunt exercitation dolore nostrud nostrud officia sint. Fugiat reprehenderit nulla Lorem labore sit ad pariatur aliquip irure esse pariatur. Aliquip cillum cupidatat ipsum amet id laborum minim reprehenderit esse. Tempor ad minim velit id ex commodo elit. Est sit minim velit deserunt.\r\n",
+      "tags": [
+        "duis",
+        "nostrud",
+        "mollit",
+        "ea",
+        "id",
+        "Lorem",
+        "labore"
+      ]
+    },
+    {
+      "_id": "5f0badf1f5ffa5c6337df466",
+      "index": 63,
+      "isActive": true,
+      "dashboardName": "Lorem",
+      "visualType": [
+        {
+          "name": "in"
+        },
+        {
+          "name": "officia"
+        },
+        {
+          "name": "non"
+        },
+        {
+          "name": "eu"
+        },
+        {
+          "name": "fugiat"
+        }
+      ],
+      "visuals": [
+        {
+          "name": "eiusmod",
+          "type": "mollit"
+        },
+        {
+          "name": "amet",
+          "type": "ut"
+        }
+      ],
+      "timestamp": {
+        "createdAt": "2020-01-25",
+        "updateAt": "2017-09-10"
+      },
+      "description": "Voluptate minim excepteur veniam minim nulla voluptate sint nulla cupidatat cupidatat ipsum ullamco qui. Officia non amet labore pariatur ad sint eiusmod nisi mollit id excepteur aute. Ad sunt exercitation officia eu adipisicing. Et minim tempor tempor non non ullamco. Magna veniam dolore duis enim id ut aute adipisicing.\r\n",
+      "tags": [
+        "Lorem",
+        "proident",
+        "laboris",
+        "duis",
+        "reprehenderit",
+        "nostrud",
+        "sunt"
+      ]
+    },
+    {
+      "_id": "5f0badf14efb0574fab23db0",
+      "index": 75,
+      "isActive": true,
+      "dashboardName": "sit",
+      "visualType": [
+        {
+          "name": "reprehenderit"
+        },
+        {
+          "name": "nostrud"
+        },
+        {
+          "name": "nostrud"
+        },
+        {
+          "name": "velit"
+        },
+        {
+          "name": "nostrud"
+        }
+      ],
+      "visuals": [
+        {
+          "name": "sunt",
+          "type": "quis"
+        },
+        {
+          "name": "esse",
+          "type": "ad"
+        },
+        {
+          "name": "nostrud",
+          "type": "nostrud"
+        }
+      ],
+      "timestamp": {
+        "createdAt": "2020-01-23",
+        "updateAt": "2019-05-23"
+      },
+      "description": "Laboris velit aute culpa sint culpa. Anim veniam culpa elit qui veniam. Nisi incididunt laborum dolore ipsum voluptate sit sunt dolor. Et minim amet id est reprehenderit enim et sunt laboris pariatur aute in sit nulla. Laboris sit non duis consequat cupidatat ea dolore laboris sit ex pariatur aute.\r\n",
+      "tags": [
+        "ea",
+        "dolor",
+        "incididunt",
+        "pariatur",
+        "nostrud",
+        "adipisicing",
+        "id"
+      ]
+    },
+    {
+      "_id": "5f0badf1f6ec2ec9f13e60b5",
+      "index": 91,
+      "isActive": false,
+      "dashboardName": "ex",
+      "visualType": [
+        {
+          "name": "laborum"
+        },
+        {
+          "name": "do"
+        },
+        {
+          "name": "dolor"
+        },
+        {
+          "name": "nostrud"
+        },
+        {
+          "name": "id"
+        }
+      ],
+      "visuals": [
+        {
+          "name": "ex",
+          "type": "ex"
+        },
+        {
+          "name": "reprehenderit",
+          "type": "ad"
+        },
+        {
+          "name": "est",
+          "type": "cupidatat"
+        }
+      ],
+      "timestamp": {
+        "createdAt": "2020-01-18",
+        "updateAt": "2017-02-26"
+      },
+      "description": "Ea laborum sunt qui incididunt. Adipisicing sit minim ad labore amet nisi. Ullamco magna do non esse enim mollit nisi in.\r\n",
+      "tags": [
+        "consectetur",
+        "laboris",
+        "Lorem",
+        "nisi",
+        "excepteur",
+        "ad",
+        "sint"
+      ]
+    },
+    {
+      "_id": "5f0badf15e464c5706f63f0b",
+      "index": 112,
+      "isActive": false,
+      "dashboardName": "sunt",
+      "visualType": [
+        {
+          "name": "irure"
+        },
+        {
+          "name": "ut"
+        },
+        {
+          "name": "irure"
+        },
+        {
+          "name": "minim"
+        },
+        {
+          "name": "cupidatat"
+        }
+      ],
+      "visuals": [
+        {
+          "name": "exercitation",
+          "type": "pariatur"
+        },
+        {
+          "name": "aliqua",
+          "type": "mollit"
+        },
+        {
+          "name": "sunt",
+          "type": "est"
+        },
+        {
+          "name": "incididunt",
+          "type": "aute"
+        },
+        {
+          "name": "excepteur",
+          "type": "anim"
+        }
+      ],
+      "timestamp": {
+        "createdAt": "2018-03-22",
+        "updateAt": "2020-01-26"
+      },
+      "description": "Et dolore proident veniam eiusmod sit eiusmod duis voluptate. Laboris elit ut duis eiusmod nisi amet eiusmod elit do consequat anim. Et magna nostrud cillum pariatur enim aliquip aliquip incididunt. Magna labore irure consectetur cupidatat occaecat sint sit fugiat. Quis minim nostrud reprehenderit proident duis magna do esse culpa deserunt. Minim reprehenderit cupidatat ea sit. Adipisicing consectetur aute non ad tempor voluptate sunt ea.\r\n",
+      "tags": [
+        "officia",
+        "mollit",
+        "ipsum",
+        "laborum",
+        "mollit",
+        "laborum",
+        "ut"
+      ]
+    },
+    {
+      "_id": "5f0badf1890c290cdddcd36a",
+      "index": 178,
+      "isActive": false,
+      "dashboardName": "reprehenderit",
+      "visualType": [
+        {
+          "name": "tempor"
+        },
+        {
+          "name": "consectetur"
+        },
+        {
+          "name": "ut"
+        }
+      ],
+      "visuals": [
+        {
+          "name": "non",
+          "type": "incididunt"
+        },
+        {
+          "name": "ex",
+          "type": "ea"
+        },
+        {
+          "name": "incididunt",
+          "type": "excepteur"
+        }
+      ],
+      "timestamp": {
+        "createdAt": "2018-06-03",
+        "updateAt": "2020-01-14"
+      },
+      "description": "Qui sunt duis veniam laborum enim tempor mollit cillum deserunt officia sit qui id cillum. Reprehenderit ipsum commodo officia enim dolor ut. Ut occaecat duis labore laborum ut ex. Labore laborum esse amet deserunt nulla occaecat nostrud mollit laboris nisi cupidatat labore. Voluptate culpa id est deserunt consequat pariatur pariatur occaecat enim. Duis excepteur eiusmod laborum mollit laboris consectetur ea et.\r\n",
+      "tags": [
+        "mollit",
+        "nostrud",
+        "Lorem",
+        "nisi",
+        "fugiat",
+        "elit",
+        "excepteur"
+      ]
+    },
+    {
+      "_id": "5f0badf11bcd8550f493b91f",
+      "index": 189,
+      "isActive": false,
+      "dashboardName": "duis",
+      "visualType": [
+        {
+          "name": "pariatur"
+        },
+        {
+          "name": "minim"
+        }
+      ],
+      "visuals": [
+        {
+          "name": "nostrud",
+          "type": "eiusmod"
+        },
+        {
+          "name": "sit",
+          "type": "adipisicing"
+        }
+      ],
+      "timestamp": {
+        "createdAt": "2020-02-26",
+        "updateAt": "2020-01-01"
+      },
+      "description": "Et occaecat non proident proident dolor dolor eiusmod enim aliquip. Labore amet proident proident quis aliqua nulla excepteur ad velit aliqua tempor anim ad. Proident laboris ullamco deserunt mollit commodo do. Eiusmod aliquip ut consectetur voluptate ipsum enim sunt enim aliquip est. Elit dolor ex tempor proident in laboris adipisicing cillum qui laborum. Aliqua tempor non elit aliquip sunt aute mollit.\r\n",
+      "tags": [
+        "mollit",
+        "ad",
+        "duis",
+        "laboris",
+        "magna",
+        "sint",
+        "aliquip"
+      ]
+    }
+  ],
+  "usuarios": [
+    {
+      "_id": "5f0baad020d689b91e05f082",
+      "index": 123,
+      "isActive": true,
+      "picture": "http://placehold.it/32x32",
+      "age": 23,
+      "name": {
+        "firstName": "Goodman",
+        "lastName": "Mcgowan"
+      },
+      "gender": "male",
+      "company": "GEEKOL",
+      "email": "goodmanmcgowan@geekol.com",
+      "phone": "+57 (832) 480-3970",
+      "address": "111 Stratford Road, Falconaire, Palau, 1336",
+      "createdAt": "2020-01-24",
+      "tags": [
+        "ut",
+        "enim",
+        "amet",
+        "eiusmod",
+        "ullamco",
+        "proident",
+        "proident"
+      ]
+    },
+    {
+      "_id": "5f0baad050b7b5ebf153c026",
+      "index": 279,
+      "isActive": false,
+      "picture": "http://placehold.it/32x32",
+      "age": 21,
+      "name": {
+        "firstName": "Sonja",
+        "lastName": "Dotson"
+      },
+      "gender": "female",
+      "company": "PERKLE",
+      "email": "sonjadotson@perkle.com",
+      "phone": "+57 (929) 434-2824",
+      "address": "742 Hall Street, Mulino, Washington, 5773",
+      "createdAt": "2020-01-20",
+      "tags": [
+        "labore",
+        "nulla",
+        "est",
+        "nulla",
+        "ipsum",
+        "sunt",
+        "Lorem"
+      ]
+    }
+  ]
+}
