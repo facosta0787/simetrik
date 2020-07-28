@@ -1,0 +1,29 @@
+name: Deploy to VERCEL
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '10.x'
+      - name: Installing yarn
+        run: npm i -g yarn
+      - name: Installing packages and runing tests
+        run: yarn && yarn test
+      - name: Deploy to Vercel
+        uses: amondnet/now-deployment@v2
+        with:
+          zeit-token: ${{ secrets.VERCEL_TOKEN_ID }} # Required
+          github-token: ${{ secrets.GH_TOKEN }} #Optional
+          now-args: '--prod' #Optional
+          now-org-id: ${{ secrets.VERCEL_ORG_ID}}  #Required
+          now-project-id: ${{ secrets.VERCEL_PROJECT_ID}} #Required
+          working-directory: ./
