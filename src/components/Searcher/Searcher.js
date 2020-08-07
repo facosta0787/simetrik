@@ -1,14 +1,14 @@
-import React from "react";
-import cs from "classnames";
+import React from 'react'
+import cs from 'classnames'
 
-import "./Searcher.scss";
+import './Searcher.scss'
 
 function Searcher({ onSubmit, results, ...rest }) {
   return (
     <form
-      className={cs("searcher", { "searcher-results": results })}
+      className={cs('searcher', { 'searcher-results': results })}
       onSubmit={onSubmit}
-      data-testid='searcher-form'
+      data-testid="searcher-form"
     >
       <span className="search-icon" />
       <input className="search-input" type="text" {...rest} />
@@ -18,7 +18,7 @@ function Searcher({ onSubmit, results, ...rest }) {
         </button>
       </div>
     </form>
-  );
+  )
 }
 
-export default Searcher;
+export default Searcher

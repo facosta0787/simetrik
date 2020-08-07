@@ -24,6 +24,6 @@ jobs:
           vercel-token: ${{ secrets.VERCEL_TOKEN_ID }} # Required
           github-token: ${{ secrets.GH_TOKEN }} #Optional
           vercel-args: '--prod' #Optional
-          vercel-org-id: ${{ secrets.VERCEL_ORG_ID}}  #Required
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID}} #Required
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID}} #Required
           working-directory: ./

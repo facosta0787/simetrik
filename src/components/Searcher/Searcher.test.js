@@ -1,5 +1,5 @@
 import React from 'react'
-import { render, fireEvent } from "@testing-library/react";
+import { render, fireEvent } from '@testing-library/react'
 import Searcher from './Searcher'
 
 describe('Searcher Component', () => {
@@ -18,7 +18,7 @@ describe('Searcher Component', () => {
   })
 
   it('Should apply the class searcher-results if there are results', () => {
-    const { getByTestId } = render(<Searcher results={[1,2,3]} />)
+    const { getByTestId } = render(<Searcher results={[1, 2, 3]} />)
     const form = getByTestId('searcher-form')
     expect(form).toBeInTheDocument()
     expect(form).toHaveClass('searcher searcher-results')

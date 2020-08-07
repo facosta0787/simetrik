@@ -13,15 +13,7 @@
         "updateAt": "2020-01-28"
       },
       "description": "Consectetur laboris consequat Lorem dolore officia",
-      "tags": [
-        "ipsum",
-        "pariatur",
-        "velit",
-        "laborum",
-        "in",
-        "esse",
-        "eiusmod"
-      ]
+      "tags": ["ipsum", "pariatur", "velit", "laborum", "in", "esse", "eiusmod"]
     }
   ],
   "fuentes": [
@@ -57,15 +49,7 @@
         "updateAt": "2020-01-11"
       },
       "description": "Est ad consectetur dolore consequat ex. Reprehenderit deserunt nulla voluptate est commodo ea duis esse consectetur veniam nisi adipisicing. Et mollit sint nisi irure eiusmod consectetur consectetur tempor officia sint aliquip. Nisi laborum ullamco elit aliqua.\r\n",
-      "tags": [
-        "sint",
-        "commodo",
-        "dolore",
-        "proident",
-        "culpa",
-        "minim",
-        "eu"
-      ]
+      "tags": ["sint", "commodo", "dolore", "proident", "culpa", "minim", "eu"]
     },
     {
       "_id": "5f0baba17287bbd2d994fea9",
@@ -120,15 +104,7 @@
         "updateAt": "2020-01-22"
       },
       "description": "Aute aliquip occaecat magna quis do sunt do sint culpa cillum deserunt nisi adipisicing. Nostrud ut irure enim nisi ad aliquip proident do eu cillum mollit quis dolore aliquip. Pariatur qui ad veniam velit mollit aliqua labore laborum. Enim consequat reprehenderit non esse voluptate nisi irure eiusmod. Occaecat nulla consequat laboris labore est in dolor anim. Veniam cillum cupidatat ut magna ut non voluptate exercitation consectetur laborum laborum velit non. Non qui ullamco esse et commodo quis.\r\n",
-      "tags": [
-        "deserunt",
-        "magna",
-        "voluptate",
-        "non",
-        "non",
-        "mollit",
-        "aute"
-      ]
+      "tags": ["deserunt", "magna", "voluptate", "non", "non", "mollit", "aute"]
     },
     {
       "_id": "5f0baba1673c7211f7fd3b39",
@@ -162,15 +138,7 @@
         "updateAt": "2020-01-31"
       },
       "description": "Adipisicing excepteur reprehenderit id quis est duis nulla magna do velit officia exercitation amet aliquip. Laborum ut consectetur dolor laboris incididunt cupidatat ullamco mollit nisi ut culpa. Qui non esse quis minim.\r\n",
-      "tags": [
-        "ut",
-        "commodo",
-        "duis",
-        "ipsum",
-        "cillum",
-        "duis",
-        "commodo"
-      ]
+      "tags": ["ut", "commodo", "duis", "ipsum", "cillum", "duis", "commodo"]
     },
     {
       "_id": "5f0baba1347862060fb29455",
@@ -183,15 +151,7 @@
         "updateAt": "2019-12-12"
       },
       "description": "Cupidatat est eu sunt aute excepteur non velit aliqua pariatur. Occaecat nulla Lorem sit ullamco veniam excepteur dolore irure mollit veniam deserunt ex cillum. Quis occaecat magna ea nostrud quis exercitation in adipisicing irure dolor excepteur.\r\n",
-      "tags": [
-        "non",
-        "Lorem",
-        "esse",
-        "laborum",
-        "qui",
-        "commodo",
-        "esse"
-      ]
+      "tags": ["non", "Lorem", "esse", "laborum", "qui", "commodo", "esse"]
     }
   ],
   "tableros": [
@@ -289,15 +249,7 @@
         "updateAt": "2020-01-26"
       },
       "description": "Eu deserunt exercitation dolore nostrud nostrud officia sint. Fugiat reprehenderit nulla Lorem labore sit ad pariatur aliquip irure esse pariatur. Aliquip cillum cupidatat ipsum amet id laborum minim reprehenderit esse. Tempor ad minim velit id ex commodo elit. Est sit minim velit deserunt.\r\n",
-      "tags": [
-        "duis",
-        "nostrud",
-        "mollit",
-        "ea",
-        "id",
-        "Lorem",
-        "labore"
-      ]
+      "tags": ["duis", "nostrud", "mollit", "ea", "id", "Lorem", "labore"]
     },
     {
       "_id": "5f0badf1f5ffa5c6337df466",
@@ -580,15 +532,7 @@
         "updateAt": "2020-01-01"
       },
       "description": "Et occaecat non proident proident dolor dolor eiusmod enim aliquip. Labore amet proident proident quis aliqua nulla excepteur ad velit aliqua tempor anim ad. Proident laboris ullamco deserunt mollit commodo do. Eiusmod aliquip ut consectetur voluptate ipsum enim sunt enim aliquip est. Elit dolor ex tempor proident in laboris adipisicing cillum qui laborum. Aliqua tempor non elit aliquip sunt aute mollit.\r\n",
-      "tags": [
-        "mollit",
-        "ad",
-        "duis",
-        "laboris",
-        "magna",
-        "sint",
-        "aliquip"
-      ]
+      "tags": ["mollit", "ad", "duis", "laboris", "magna", "sint", "aliquip"]
     }
   ],
   "usuarios": [
@@ -634,15 +578,7 @@
       "phone": "+57 (929) 434-2824",
       "address": "742 Hall Street, Mulino, Washington, 5773",
       "createdAt": "2020-01-20",
-      "tags": [
-        "labore",
-        "nulla",
-        "est",
-        "nulla",
-        "ipsum",
-        "sunt",
-        "Lorem"
-      ]
+      "tags": ["labore", "nulla", "est", "nulla", "ipsum", "sunt", "Lorem"]
     }
   ]
 }

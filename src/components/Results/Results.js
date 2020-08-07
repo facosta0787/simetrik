@@ -1,5 +1,5 @@
-import React from "react";
-import "./Results.scss";
+import React from 'react'
+import './Results.scss'
 
 function Results({ title, headers, fields, data }) {
   return (
@@ -17,7 +17,7 @@ function Results({ title, headers, fields, data }) {
         </thead>
 
         <tbody className="table-body">
-          {data.map((row) => (
+          {data.map(row => (
             <tr key={row.id} className="table-row">
               {fields.map((item, idx) => (
                 <td
@@ -33,7 +33,7 @@ function Results({ title, headers, fields, data }) {
         </tbody>
       </table>
     </article>
-  );
+  )
 }
 
-export default Results;
+export default Results
