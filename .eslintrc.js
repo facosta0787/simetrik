@@ -23,13 +23,14 @@ module.exports = {
     ecmaVersion: 11,
     sourceType: 'module',
   },
-  plugins: ['react', 'react-hooks'],
+  plugins: ['react', 'react-hooks', 'prettier'],
   settings: {
     react: {
       version: 'detect',
     },
   },
   rules: {
+    'prettier/prettier': ON,
     'react/prop-types': OFF,
   },
 }

@@ -7,7 +7,8 @@
     "build": "node scripts/build.js",
     "test": "node scripts/test.js",
     "lint": "eslint './src/**/*.{js,jsx}'",
-    "lint:fix": "eslint './src/**/*.{js,jsx}' --fix"
+    "lint:fix": "eslint './src/**/*.{js,jsx}' --fix",
+    "format": "prettier --write \"**/*.+(js|jsx|json|css)\""
   },
   "dependencies": {
     "@svgr/webpack": "4.3.3",
@@ -53,6 +54,7 @@
     "eslint-loader": "^4.0.2",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.20.5",
     "eslint-plugin-react-hooks": "^4.0.8",
@@ -73,6 +75,7 @@
     "postcss-normalize": "8.0.1",
     "postcss-preset-env": "6.7.0",
     "postcss-safe-parser": "4.0.1",
+    "prettier": "^2.0.5",
     "react-test-renderer": "^16.13.1",
     "webpack": "4.42.0",
     "webpack-dev-server": "3.10.3",
