@@ -16,11 +16,14 @@ jobs:
         with:
           node-version: '10.x'
 
-      - name: Installing yarn
+      - name: Install yarn
         run: npm i -g yarn
 
-      - name: Installing packages and runing tests
+      - name: Install packages and run tests
         run: yarn && yarn test
+
+      - name: Run Eslint
+        run: yarn lint
 
       - name: Deploy to Vercel
         uses: amondnet/vercel-action@v19.0.1+2
