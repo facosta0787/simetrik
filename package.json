@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "test": "node scripts/test.js",
+    "test": "node scripts/test.js --watchAll=false",
     "lint": "eslint './src/**/*.{js,jsx}'",
     "lint:fix": "eslint './src/**/*.{js,jsx}' --fix",
     "format": "prettier --write \"**/*.+(js|jsx|json|css)\""
@@ -94,7 +94,6 @@
     ]
   },
   "jest": {
-    "coverageProvider": "v8",
     "roots": [
       "<rootDir>/src"
     ],
