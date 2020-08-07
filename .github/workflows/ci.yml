@@ -10,16 +10,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
       - name: Install Node.js
         uses: actions/setup-node@v1
         with:
           node-version: '10.x'
+
       - name: Installing yarn
         run: npm i -g yarn
+
       - name: Installing packages and runing tests
         run: yarn && yarn test
+
       - name: Deploy to Vercel
-        uses: amondnet/vercel-action@v19
+        uses: amondnet/vercel-action@v19.0.1+2
         with:
           vercel-token: ${{ secrets.VERCEL_TOKEN_ID }} # Required
           github-token: ${{ secrets.GH_TOKEN }} #Optional
