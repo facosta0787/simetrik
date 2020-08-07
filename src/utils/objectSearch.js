@@ -1,5 +1,6 @@
 export default function objectSearch(source, query) {
-  if (typeof source === 'string') return source.toLowerCase().includes(query)
+  if (typeof source === 'string')
+    return source.toLowerCase().includes(query.toLowerCase())
 
   if (Array.isArray(source)) {
     return source.some(item => objectSearch(item, query))

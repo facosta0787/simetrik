@@ -10,9 +10,13 @@
     flex-direction: column;
     width: 100%;
 
-    .logo {
+    .logo-link {
       width: 60%;
       margin-bottom: 30px;
+
+      .logo {
+        width: 100%;
+      }
     }
   }
 
@@ -44,9 +48,13 @@
   padding-top: 15px;
 
   .hero {
-    .logo {
-      width: 40%;
-      margin-bottom: 15px;
+    .logo-link {
+      width: 15%;
+      margin-bottom: 3px;
+
+      .logo {
+        width: 100%;
+      }
     }
   }
 

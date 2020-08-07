@@ -3,6 +3,7 @@ const WARN = 'warn' // eslint-disable-line
 const ON = 'error' // eslint-disable-line
 
 module.exports = {
+  parser: 'babel-eslint',
   env: {
     browser: true,
     es2020: true,

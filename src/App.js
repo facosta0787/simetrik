@@ -18,7 +18,9 @@ function App() {
       event.preventDefault()
       const searchResults = Object.keys(db).reduce((accum, curr) => {
         const filtered = db[curr].filter(item => objectSearch(item, query))
+
         if (filtered) return { ...accum, [curr]: filtered }
+
         return accum
       }, {})
       setResults(searchResults)
@@ -58,7 +60,10 @@ function App() {
       data-testid="app"
     >
       <div data-testid="hero-banner" className="hero">
-        <img className="logo" src={simetrikLogo} alt="simetrik logo" />
+        <a className="logo-link" href="/">
+          <img className="logo" src={simetrikLogo} alt="simetrik logo" />
+        </a>
+
         <Searcher
           onSubmit={handleSearch}
           results={Object.keys(results).length}
